@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumyo28-basu
-- 👀 I’m interested in Automation Testing
+- 👀 I’m interested in Software Development/Testing
 - 🌱 I’m currently learning Automation Testing using Selenium Java
 - 💞️ I’m looking to collaborate on Automation of web-based application
 - 📫 How to reach me - Mailid: Soumyojitbasu21@gmail.com
